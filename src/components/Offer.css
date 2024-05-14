@@ -1,0 +1,56 @@
+.offer{
+    background: #292E36;
+    display: flex;
+}
+.Offer-details{
+    margin-top: 61px;
+    height: 100%;
+    padding: 98px;
+    max-width: 25rem;
+}
+.Offer-details span{
+    letter-spacing: 0.27em;
+    border-top: 2px solid #E1B168 !important;
+    border-bottom:2px solid #E1B168 !important ;
+    color: #fff !important;
+}
+.Offer-details h2{
+    font-size: 40px;
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 700;
+    color: #fff !important;
+}
+.Offer-details p{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff !important;
+
+}
+.card-off {border: 25px solid #323841;
+    height: 142px;
+    /* display: flex; */
+    /* justify-content: center; */
+    padding: 52PX;
+    margin: auto;
+    text-align: center;
+    
+  }
+  .offer-card{
+    display: flex;
+    margin: auto;
+  }
+  /* .card-off img{
+    height: 50%;
+  } */
+  .card-content {
+    color: #fff !important;
+  }
+  .card-off img{
+    height: 50%;
+  }
+  .card-off-img img {
+    height: 88px;
+}

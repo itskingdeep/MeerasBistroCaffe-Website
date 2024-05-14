@@ -1,0 +1,72 @@
+.main-header{
+    background: #292E36;
+    
+}
+
+
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 1.5rem !important;
+    padding-bottom: 3rem !important;
+    margin-left: 40px;
+    margin-right: 40px;
+   
+}
+
+.phone-number-nav{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    width: 232px;
+    background: #292E36;
+    color: #dedede;
+    height: 68px;
+    border: 2px solid #E1B168;
+}
+.reservation-nav{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    width: 232px;
+    background: #292E36;
+    color: #dedede;
+    height: 68px;
+    border: 2px solid #E1B168;
+    background: #E1B168;
+    color: #292E36;
+}
+.middle-nav{
+   
+    color: #dbcaca;
+    font-family: emoji;
+    font-size: 46px;
+}
+.navbar{
+    display: flex;
+    margin: auto;
+    height: 90px;
+}
+.nav-link{
+    display: flex;
+    margin: auto;
+}
+.nav-link li{
+    padding: 13px;
+    font-size: 24px;
+    color: #dedede;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    list-style: none;
+    padding-left: 40px;
+
+}
+.nav-link a{
+    text-decoration: none;
+}

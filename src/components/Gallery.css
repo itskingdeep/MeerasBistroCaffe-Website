@@ -1,0 +1,39 @@
+.gallery{
+    text-align: center;
+}
+.gallery-img{
+    display: flex;
+}
+.gallery-img-left img{
+    width: 300px;
+    height: 250px;
+
+}
+.gallery-img-middle img{
+    width: 500px;
+    height: 500px;
+}
+.gallery-img-right img{
+    width: 300px;
+    height: 250px;
+}
+.gallery span{
+    border-bottom: 1px solid #E1B168 !important;
+    border-top: 1px solid #E1B168 !important; 
+    color: #292E36;
+    font-family: Josefin Sans;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 77.1%;
+    color: #292e36;
+    letter-spacing: .27em;
+    text-transform: uppercase;
+}
+.gallery h2{
+    font-size: 40px;
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 500;
+   
+    line-height: 77.1%;
+}

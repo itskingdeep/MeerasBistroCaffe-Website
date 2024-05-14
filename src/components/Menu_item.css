@@ -1,0 +1,97 @@
+.menu_item{
+    background-image: url(https://www.openhousecafe.in/background.c819edea1cb4cb69.jpg);
+    width: 100%;
+  display: flex;
+}
+.menu-item-img{
+    width: 50%;
+    padding: 35px;
+}
+/* .menu_item_img{
+    width: 100%;
+}
+.menu_item_img img{
+    width: 50%;
+} */
+.menu_item_content{
+    width: 50%;
+    padding: 35px;
+    text-align: center;
+}
+.menu_item_content span{
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 77.1%;
+    color: #fff;
+    border-bottom: 1px solid #E1B168 !important;
+    border-top: 1px solid #E1B168 !important;
+}
+.menu_form{
+    background-color: #fff;
+    display: grid; /* Use CSS grid layout */
+    /* grid-template-columns: repeat(2, 1fr); Two columns with equal width */
+    gap: 10px;
+    padding: 4px;
+}
+.form-container {
+    max-width: 400px;
+   margin: auto;
+  }
+
+  
+  .form-container span {
+    text-align: center;
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 77.1%;
+    color: #fff;
+    border-bottom: 1px solid #E1B168 !important;
+    border-top: 1px solid #E1B168 !important;
+    padding-top: 3px;
+  }
+  
+  .form-container form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 30px;
+  }
+  
+  .form-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-container input[type="text"],
+  .form-container input[type="tel"],
+  .form-container textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-container textarea {
+    height: 100px; /* Adjust textarea height */
+  }
+  
+  .form-container button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #E1B168 ;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .form-container button:hover {
+    background-color: #E1B168 ;
+  }
+  

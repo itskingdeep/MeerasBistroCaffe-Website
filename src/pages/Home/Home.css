@@ -1,0 +1,180 @@
+.hero-main {
+    background: #292E36;
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+  max-height: 500px;
+  
+}
+.content-banner {
+    max-width: 50%;
+
+}
+.content-banner h1{
+    /* font-size: 2.5rem; */
+  margin-bottom: 20px;
+  font-size: 86px;
+  color: #fff;
+  line-height: 94.1%;
+}
+.content-banner p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    color: #dfdfdf;
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+
+}
+.content-iamge{
+    max-width: 70%;
+    max-height: 60%;
+}
+.content-iamge img {
+    max-width: 550px;
+    margin-top: 364px;
+    margin-right: 152px;
+}
+.bread-crum{
+ 
+    display: flex;
+    margin-right: 75px;
+    
+    
+}
+.location{
+    
+    display: flex;
+    align-items: center;
+    margin-top: 13rem !important;
+    margin-left: 8rem;
+
+}
+.location img{
+    background: #292E36;
+    border-radius: 50px;
+}
+
+/* img.img-fluid {
+    max-width: 70%;
+} */
+
+.locat{
+    
+    
+    margin-left: 21px;
+    margin-top: 40px;
+    /* margin-left: 8rem;  */
+}
+.locat span{
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 77.1%;
+}
+.locat p{
+    font-family: Josefin Sans;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+.story{
+    display: flex;
+    margin-top: 63px;
+    margin-left: 70px;
+}
+.story-content span{
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #292e36;
+}
+.story-content{
+    padding-right: 3rem !important;
+    padding-left: 3rem !important;
+}
+.story-image img{
+    height: 470px;
+}
+.story-content p {
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #555;
+    line-height: 38px;
+}
+.bg-img{
+    background: url(https://www.openhousecafe.in/fresh1.b68239771e5115e9.jpg) no-repeat;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.seperate-content img{
+    height: 70px;
+}
+/* .seperate-content {
+    display: flex;
+    align-items: center;
+} */
+/* .seperate-text{
+    margin: 0 10px;
+} */
+.seperate-text h2{
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 77.1%;
+    color: #fff !important;
+}
+.seperate-text p{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 146.5%;
+    text-align: center;
+    color: #fff;
+}
+.chef{
+    display: flex;
+    justify-content: space-between;
+    margin: 60px;
+    margin-left: 81px;
+    margin-right: 84px;
+}
+.chef-detail p{
+    color: #555555;
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 62px;
+}
+.chef-detail span{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: .27em;
+    text-transform: uppercase;
+    border-top: 2px solid #E1B168 !important;
+    border-bottom: 2px solid #E1B168 !important;
+}
+.chef-detail h1{
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+
+    line-height: 77.1%;
+}

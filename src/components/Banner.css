@@ -1,0 +1,19 @@
+.banner{
+    background: #292E36;
+}
+.banner-name{
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 77.1%;
+    /* border-bottom: 1px solid #E1B168 !important; */
+    border-top: 1px solid #E1B168 !important;
+    text-align: center;
+    padding: 47px;
+    color: #fff;
+}
+.banner-name span{
+   border-bottom: 1px solid #E1B168 !important;
+   border-top: 1px solid #E1B168 !important; 
+}

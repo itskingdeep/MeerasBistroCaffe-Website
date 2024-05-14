@@ -1,0 +1,25 @@
+.contact-div-img{
+    width: 51.64px;
+    height: 51.64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #292E36;
+    border-radius: 50px;
+}
+.Contact-content{
+    background: #FFF8F5;
+    width: 50%;
+    margin: 5rem;
+    padding: 2rem;
+}
+.contact-section{
+    display: flex;
+    gap: 1rem;
+}
+.contact-div p {
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}

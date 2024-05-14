@@ -1,0 +1,45 @@
+.reserved-block{
+    background: url(https://www.openhousecafe.in/reserved.a2fc4de9ad6bd461.jpg) no-repeat;
+    padding: 88px;
+    background-position: center;
+}
+.reserved-block h1{
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    max-width: 37rem;
+    color: #fff;
+}
+.reserved-block p{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    color: #fff;
+}
+.reserved-block span{
+    letter-spacing: 0.27em;
+    border-top: 2px solid #E1B168 !important;
+    border-bottom: 2px solid #E1B168 !important;
+    color: #fff;
+    font-family: Josefin Sans;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+.reserved-block button{
+    border: 2px solid #E1B168;
+}
+.booking-btn{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    width: 232px;
+    /* background: #292E36; */
+    color: #dedede;
+    height: 68px;
+    border: 2px solid #E1B168;
+    background: transparent;
+}

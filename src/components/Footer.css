@@ -1,0 +1,67 @@
+.footer{
+    background: #292E36;
+    text-align: center;
+    margin-top: 50px;
+}
+.footer p{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 146.5%;
+    color: #fff;
+}
+.footer span{
+    letter-spacing: 0.27em;
+    border-top: 2px solid #E1B168 !important;
+    border-bottom: 2px solid #E1B168 !important;
+    color: #fff;
+    font-family: Josefin Sans;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+.footer-content{
+    display: flex;
+    
+    justify-content: space-between;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.contact {
+    max-width: 16rem;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff;
+    word-spacing: 2px;
+    line-height: 30px;
+    margin-top: 40px;
+    text-align: left;
+}   
+.email{
+    margin: auto;
+}
+.email input{
+    background-color: #212529 !important;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    width: 400px;
+    height: 64px;
+}
+.email button{
+    background: #FFFFFF;
+    color: #292e36;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    width: 200px;
+    height: 69px;
+}
+.timing-span{
+    color: #E1B168 !important;
+}

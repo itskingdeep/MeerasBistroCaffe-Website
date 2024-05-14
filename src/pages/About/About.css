@@ -1,0 +1,35 @@
+.banner-content{
+    display: flex;
+}
+.about-img img{
+    height: 40rem;
+}
+.banner-line {
+    /* margin-left: 168px; */
+    margin: 70px;
+}
+.banner-line span{
+    font-family: Josefin Sans;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 77.1%;
+    color: #292e36;
+    letter-spacing: .27em;
+    text-transform: uppercase;
+    border-bottom: 1px solid #E1B168 !important;
+    border-top: 1px solid #E1B168 !important ;
+}
+.banner-line h2{
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 77.1%;
+}
+.banner-line p{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #555;
+}

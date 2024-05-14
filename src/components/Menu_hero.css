@@ -1,0 +1,42 @@
+.menu {
+    display: flex;
+    /* margin: 45px; */
+    width: 100%;
+}
+
+.menu-content {
+    /* margin: 30px; */
+    width: 100%;
+    /* padding: 30px; */
+
+}
+
+.menu-content-bg {
+    width: 50%;
+    padding: 30px;
+}
+
+.menu-content h2 {
+    font-family: Cormorant Infant, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #292e36;
+}
+
+.menu-content p {
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #555;
+}
+
+.menu-img {
+    width: 50%;
+}
+
+.menu-img img {
+    width: 90%;
+    padding: 30px;
+}
